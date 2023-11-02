@@ -88,3 +88,8 @@ All surveyed houses are marked by a violet-colored circle. The radius of the cir
   data.map
                   
 ```
+
+# Google Colab
+This was pretty easy to pick up and work with. I wasn't sure how to present it so I *screenshottted* it for your viewing pleasure. 
+![](cap6.PNG)
+And [here's a link](https://colab.research.google.com/drive/1f0h_EMEErMsSrK3yE4IGJYLCkJ_PORjP#scrollTo=NhqgpxG2UMjV) to it - ?
